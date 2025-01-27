@@ -31,8 +31,8 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/weather-cli.git
-cd weather-cli
+git clone https://github.com/TheMikeKaisen/weatherCLI.git
+cd weatherCLI
 ```
 
 ### Install Dependencies
